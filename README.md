@@ -1,3 +1,6 @@
+![Last Commit](https://img.shields.io/github/last-commit/Kaito-Dogi/Kaito-Dogi)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/ich_bin_doggy?style=social)](https://twitter.com/ich_bin_doggy)
+
 # 🙋‍♂️ Who am I
 **Android Apps Engineer** in Japan.    
 I am still a junior engineer, but I am working hard every day to be able to call myself a **software architect**.
