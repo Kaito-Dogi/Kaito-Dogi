@@ -19,6 +19,3 @@ I am still a junior engineer, but I am working to be able to call myself a **sof
 ## Server Side
 - Spring Boot (Kotlin)
 - Sinatra (Ruby)
-
-## Creative Coding
-- p5.js
