@@ -13,8 +13,9 @@ I am still a junior engineer, but I am working to be able to call myself a **sof
 # :gear: Skills
 ## Client Side
 - Android (Kotlin, Java)
-- Flutter
+- Flutter (Dart)
 - React (TypeScript)
+- React Native (TypeScript)
 
 ## Server Side
 - Spring Boot (Kotlin)
