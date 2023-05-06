@@ -7,16 +7,16 @@ I am still a junior engineer, but I am working to be able to call myself a **sof
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kaito-Dogi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaito-Dogi&layout=compact&hide=HTML,CSS,MAKEFILE,shell&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 # :gear: Skills
 ## Client Side
-- Android (Kotlin, Java)
-- Flutter (Dart)
-- React (TypeScript)
+- Android (Kotlin)
+- React, Next.js (TypeScript)
 - React Native (TypeScript)
+- Flutter (Dart)
 
 ## Server Side
 - Spring Boot (Kotlin)
+- NestJS (TypeScript)
 - Sinatra (Ruby)
