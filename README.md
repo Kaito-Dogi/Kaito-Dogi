@@ -3,10 +3,10 @@
 
 # 🙋‍♂️ Who am I
 
-日本のフロントエンドエンジニアです。
+日本のフロントエンドエンジニアです。<br>
 UI デザインから実装までを一貫してできる、フロントエンド寄りのプロダクトエンジニアを目指しています。
 
-I am a front-end engineer in Japan.
+I am a front-end engineer in Japan.<br>
 My goal is to become a front-end-oriented product engineer who can handle everything from UI design to implementation.
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Kaito-Dogi&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
