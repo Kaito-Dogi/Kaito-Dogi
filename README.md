@@ -15,14 +15,30 @@ My goal is to become a front-end-oriented product engineer who can handle everyt
 
 # :gear: Skills
 
-- Android, Kotlin
-- React, Next.js, TypeScript
-- React Native, Expo, TypeScript
-- Flutter, Dart
-- iOS, Swift
-- Spring Boot, Kotlin
-- NestJS, TypeScript
-- AWS, GCP
+## Mobile
+
+- 😎 Android, Kotlin
+- 😚 React Native, Expo, TypeScript
+- 😐 Flutter, Dart
+- 😐 iOS, Swift
+
+## Web Front-end
+
+- 😚 React, Next.js, TypeScript
+
+## Server-side
+
+- 😐 Spring Boot, Kotlin
+- 😐 NestJS, TypeScript
+
+## Cloud
+
+- 😐 AWS
+- 😐 GCP
+
+## Design
+
+- 😚 Figma
 
 # 🔗 Links
 
