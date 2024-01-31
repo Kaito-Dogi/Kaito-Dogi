@@ -13,7 +13,7 @@ My goal is to become a front-end-oriented product engineer who can handle everyt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaito-Dogi&layout=compact&hide=HTML,CSS,MAKEFILE,shell&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
-# :gear: Skills
+# 💪 Skills
 
 ## Mobile
 
