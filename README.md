@@ -24,7 +24,9 @@ My goal is to become a front-end-oriented product engineer who can handle everyt
 
 ## Web Front-end
 
+- 😚 HTML, CSS
 - 😚 React, Next.js, TypeScript
+- 😐 Remix
 
 ## Server-side
 
