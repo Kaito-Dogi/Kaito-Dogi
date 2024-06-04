@@ -46,7 +46,7 @@ My goal is to become a front-end-oriented product engineer who can handle everyt
 
 - [X](https://twitter.com/Kaito_Dogi)
 - [Qiita](https://qiita.com/Kaito-Dogi)
-- [Speaker Deck](https://speakerdeck.com/doggy)
+- [Speaker Deck](https://speakerdeck.com/kaito_dogi)
 - [note](https://note.com/kaito_dogi/)
 - [Zenn](https://zenn.dev/doggy)
 - [LAPRAS](https://lapras.com/public/kaito-dogi)
