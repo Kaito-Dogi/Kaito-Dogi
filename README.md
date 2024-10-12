@@ -3,50 +3,43 @@
 
 # 🙋‍♂️ Who am I
 
-日本のフロントエンドエンジニアです。<br>
-UI デザインから実装までを一貫してできる、フロントエンド寄りのプロダクトエンジニアを目指しています。
+日本のプロダクトエンジニアです。<br>
+チーム内の緩衝材として、コミュニケーションを推進できることが強みです。<br>
+デザインとエンジニアリングの架け橋でありたいです。<br>
+最近は Material Design に加えて Human Interface Guideline にも関心があります。
 
-I am a front-end engineer in Japan.<br>
-My goal is to become a front-end-oriented product engineer who can handle everything from UI design to implementation.
+I am a product engineer in Japan.<br>
+My strength is that I can act as a buffer in a team and promote communication.<br>
+I want to be a bridge between design and engineering.<br>
+Recently, I am interested in Human Interface Guideline as well as Material Design.
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Kaito-Dogi&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaito-Dogi&layout=compact&hide=HTML,CSS,MAKEFILE,shell&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
-# 💪 Skills
+# 🛠️ Skills
 
-## Mobile
+## 🥰 Love
 
-- 😎 Android, Kotlin
-- 😚 React Native, Expo, TypeScript
-- 😐 Flutter, Dart
-- 😐 iOS, Swift
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,figma)](https://skillicons.dev)
 
-## Web Front-end
+## 😚 Like
 
-- 😚 HTML, CSS
-- 😚 React, Next.js, TypeScript
-- 😐 Remix
+[![My Skills](https://skillicons.dev/icons?i=github,git,firebase,react,redux,p5js,threejs)](https://skillicons.dev)
 
-## Server-side
+## 😎 Using
 
-- 😐 Spring Boot, Kotlin
-- 😐 NestJS, TypeScript
+[![My Skills](https://skillicons.dev/icons?i=gradle,supabase,postgres,ts,js,html,css,nextjs)](https://skillicons.dev)
 
-## Cloud
+## 🙄 Studying...
 
-- 😐 AWS
-- 😐 GCP
-
-## Design
-
-- 😚 Figma
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,ktor,go,docker,aws,gcp,cloudflare,spring,gherkin,remix,nestjs,prisma,graphql)](https://skillicons.dev)
 
 # 🔗 Links
 
 - [X](https://twitter.com/Kaito_Dogi)
 - [Qiita](https://qiita.com/Kaito-Dogi)
 - [Speaker Deck](https://speakerdeck.com/kaito_dogi)
-- [note](https://note.com/kaito_dogi/)
+- [note](https://note.com/kaito_dogi)
 - [Zenn](https://zenn.dev/doggy)
 - [LAPRAS](https://lapras.com/public/kaito-dogi)
