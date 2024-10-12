@@ -1,12 +1,12 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Kaito-Dogi/Kaito-Dogi)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/ich_bin_doggy?style=social)](https://twitter.com/Kaito_Dogi)
+[![X Follow](https://img.shields.io/twitter/follow/Kaito_Dogi?style=social)](https://twitter.com/Kaito_Dogi)
 
 # 🙋‍♂️ Who am I
 
 日本のプロダクトエンジニアです。<br>
-チーム内の緩衝材として、コミュニケーションを推進できることが強みです。<br>
+チーム内の緩衝材としてコミュニケーションを推進できることが強みです。<br>
 デザインとエンジニアリングの架け橋でありたいです。<br>
-最近は Material Design に加えて Human Interface Guideline にも関心があります。
+最近は Material Design に加えて、Human Interface Guideline にも関心があります。
 
 I am a product engineer in Japan.<br>
 My strength is that I can act as a buffer in a team and promote communication.<br>
@@ -21,19 +21,19 @@ Recently, I am interested in Human Interface Guideline as well as Material Desig
 
 ## 🥰 Love
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,figma)](https://skillicons.dev)
+[![My Skills Love](https://skillicons.dev/icons?i=androidstudio,kotlin,figma)](https://skillicons.dev)
 
 ## 😚 Like
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,firebase,react,redux,p5js,threejs)](https://skillicons.dev)
+[![My Skills Like](https://skillicons.dev/icons?i=github,git,firebase,react,redux,p5js,threejs)](https://skillicons.dev)
 
 ## 😎 Using
 
-[![My Skills](https://skillicons.dev/icons?i=gradle,supabase,postgres,ts,js,html,css,nextjs)](https://skillicons.dev)
+[![My Skills Using](https://skillicons.dev/icons?i=gradle,supabase,postgres,ts,js,html,css,nextjs)](https://skillicons.dev)
 
 ## 🙄 Studying...
 
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,ktor,go,docker,aws,gcp,cloudflare,spring,gherkin,remix,nestjs,prisma,graphql)](https://skillicons.dev)
+[![My Skills Studying](https://skillicons.dev/icons?i=swift,flutter,ktor,go,docker,aws,gcp,cloudflare,spring,gherkin,remix,nestjs,prisma,graphql)](https://skillicons.dev)
 
 # 🔗 Links
 
