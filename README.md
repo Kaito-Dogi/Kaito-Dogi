@@ -13,9 +13,9 @@ I want to be a bridge between design and engineering.<br>
 My strength is that I can act as a buffer in a team and promote communication.<br>
 Recently, I am interested in Human Interface Guideline as well as Material Design.
 
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Kaito-Dogi&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Kaito-Dogi&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaito-Dogi&layout=compact&hide=HTML,CSS,MAKEFILE,shell&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaito-Dogi&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🛠️ Skills
 
