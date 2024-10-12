@@ -29,7 +29,7 @@ Recently, I am interested in Human Interface Guideline as well as Material Desig
 
 ## 😎 Using
 
-[![My Skills Using](https://skillicons.dev/icons?i=gradle,supabase,postgres,ts,js,html,css,nextjs)](https://skillicons.dev)
+[![My Skills Using](https://skillicons.dev/icons?i=gradle,supabase,postgres,nextjs,tailwind,ts,js,html,css)](https://skillicons.dev)
 
 ## 🙄 Studying...
 
