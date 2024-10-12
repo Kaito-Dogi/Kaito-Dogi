@@ -3,14 +3,13 @@
 
 # 🙋‍♂️ Who am I
 
-日本のプロダクトエンジニアです。<br>
-チーム内の緩衝材としてコミュニケーションを推進できることが強みです。<br>
-デザインとエンジニアリングの架け橋でありたいです。<br>
+デザインとエンジニアリングの架け橋でありたい、日本のプロダクトエンジニアです。<br>
+わたしの強みは、チーム内の緩衝材としてコミュニケーションを推進できることです。<br>
 最近は Material Design に加えて、Human Interface Guideline にも関心があります。
 
 I am a product engineer in Japan.<br>
-My strength is that I can act as a buffer in a team and promote communication.<br>
 I want to be a bridge between design and engineering.<br>
+My strength is that I can act as a buffer in a team and promote communication.<br>
 Recently, I am interested in Human Interface Guideline as well as Material Design.
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Kaito-Dogi&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
