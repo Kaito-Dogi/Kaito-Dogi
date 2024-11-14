@@ -1,7 +1,12 @@
-![Last Commit](https://img.shields.io/github/last-commit/Kaito-Dogi/Kaito-Dogi)  
-[![X Follow](https://img.shields.io/twitter/follow/Kaito_Dogi?style=social)](https://twitter.com/Kaito_Dogi)
+![Profile Views](https://komarev.com/ghpvc/?username=Kaito-Dogi)
+![Last Commit](https://img.shields.io/github/last-commit/Kaito-Dogi/Kaito-Dogi)
 
-# 🙋‍♂️ Who am I
+[![X](https://img.shields.io/badge/-@Kaito_Dogi?style=social&logo=x&label=@Kaito_Dogi)](https://x.com/Kaito_Dogi)
+[![Qiita](https://img.shields.io/badge/-@Kaito--Dogi?style=social&logo=qiita&label=@Kaito-Dogi)](https://qiita.com/Kaito-Dogi)
+[![Speaker Deck](https://img.shields.io/badge/-@kaito_dogi?style=social&logo=speakerdeck&label=@kaito_dogi)](https://speakerdeck.com/kaito_dogi)
+[![Zenn](https://img.shields.io/badge/-@doggy?style=social&logo=zenn&label=@doggy)](https://zenn.dev/doggy)
+
+## Who am I
 
 日本のプロダクトエンジニアです。<br>
 デザインとエンジニアリングの架け橋でありたいと考えています。<br>
@@ -13,33 +18,24 @@ I want to be a bridge between design and engineering.<br>
 My strength is that I can act as a buffer in a team and promote communication.<br>
 Recently, I am interested in Human Interface Guideline as well as Material Design.
 
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Kaito-Dogi&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+## Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaito-Dogi&layout=compact&langs_count=5&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-# 🛠️ Skills
-
-## 🥰 Love
+### Love
 
 [![My Skills Love](https://skillicons.dev/icons?i=androidstudio,kotlin,figma)](https://skillicons.dev)
 
-## 😚 Like
+### Use Often
 
-[![My Skills Like](https://skillicons.dev/icons?i=github,git,firebase,react,redux,p5js,threejs)](https://skillicons.dev)
+[![My Skills Use Often](https://skillicons.dev/icons?i=github,git,gradle,firebase,supabase,postgres,react,nextjs,tailwind,ts,js,html,css,p5js)](https://skillicons.dev)
 
-## 😎 Using
+### Studying...
 
-[![My Skills Using](https://skillicons.dev/icons?i=gradle,supabase,postgres,nextjs,tailwind,ts,js,html,css)](https://skillicons.dev)
+[![My Skills Studying](https://skillicons.dev/icons?i=swift,flutter,go,docker,aws,ktor,threejs,remix,spring,nestjs,prisma,graphql,gcp,cloudflare,gherkin)](https://skillicons.dev)
 
-## 🙄 Studying...
+## GitHub Stats
 
-[![My Skills Studying](https://skillicons.dev/icons?i=swift,flutter,ktor,go,docker,aws,gcp,cloudflare,spring,gherkin,remix,nestjs,prisma,graphql)](https://skillicons.dev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaito-Dogi&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-# 🔗 Links
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaito-Dogi&layout=compact&langs_count=5&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-- [X](https://twitter.com/Kaito_Dogi)
-- [Qiita](https://qiita.com/Kaito-Dogi)
-- [Speaker Deck](https://speakerdeck.com/kaito_dogi)
-- [note](https://note.com/kaito_dogi)
-- [Zenn](https://zenn.dev/doggy)
-- [LAPRAS](https://lapras.com/public/kaito-dogi)
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=Kaito-Dogi&theme=onedark&margin-w=12&margin-h=12&column=5)](https://github.com/ryo-ma/github-profile-trophy)
