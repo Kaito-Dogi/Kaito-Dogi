@@ -18,6 +18,11 @@ I want to be a bridge between design and engineering.<br>
 My strength is that I can act as a buffer in a team and promote communication.<br>
 Recently, I am interested in Human Interface Guideline as well as Material Design.
 
+## Use Often
+
+[![My Skills Love](https://skillicons.dev/icons?i=androidstudio,kotlin,figma,firebase,supabase,react,nextjs,tailwind,ts,swift)](https://skillicons.dev)
+
+<!--
 ## Skills
 
 ### Love
@@ -31,6 +36,7 @@ Recently, I am interested in Human Interface Guideline as well as Material Desig
 ### Studying...
 
 [![My Skills Studying](https://skillicons.dev/icons?i=swift,flutter,go,docker,aws,ktor,threejs,remix,spring,nestjs,prisma,graphql,gcp,cloudflare,gherkin)](https://skillicons.dev)
+-->
 
 ## GitHub Stats
 
