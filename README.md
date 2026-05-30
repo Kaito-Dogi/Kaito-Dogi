@@ -13,7 +13,7 @@
 強みはフォロワーシップです。コミュニケーションが生まれやすい雰囲気を作り、チームを推進します。<br>
 2020年から Android アプリを開発しています。KMP 導入に伴い、2025年から iOS アプリも開発しています。<br>
 最近は Adaptive Design によるマルチデバイス対応や、ASGL（Android Graphics Shading Language）によるリッチな UI 表現に関心があります。<br>
-加えて、HIG（Human Interface Guideline）や Swift API Design Guidelines を読み進めています。
+加えて HIG（Human Interface Guideline）や Swift API Design Guidelines を読み進めています。
 
 I am a product engineer based in Japan.
 My goals are to create new worlds through design and engineering, and to form a punk band to express myself. <br>
