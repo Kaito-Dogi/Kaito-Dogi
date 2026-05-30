@@ -8,19 +8,23 @@
 
 ## Who am I
 
-日本のプロダクトエンジニアです。<br>
-デザインとエンジニアリングの架け橋でありたいと考えています。<br>
-強みは、チーム内の緩衝材としてコミュニケーションを推進できることです。<br>
-最近は Material Design に加えて、Human Interface Guideline にも関心があります。
+日本のプロダクトエンジニアです。
+目標は、デザインとエンジニアリングを手段として新たな世界観を作ることと、パンクバンドを結成して表現活動をすることです。<br>
+強みはフォロワーシップです。コミュニケーションが生まれやすい雰囲気を作り、チームを推進します。<br>
+2020年から Android アプリを開発しています。KMP 導入に伴い、2025年から iOS アプリも開発しています。<br>
+最近は Adaptive Design によるマルチデバイス対応や、ASGL（Android Graphics Shading Language）によるリッチな UI 表現に関心があります。<br>
+加えて、HIG（Human Interface Guideline）や Swift API Design Guidelines を読み進めています。
 
-I am a product engineer in Japan.<br>
-I want to be a bridge between design and engineering.<br>
-My strength is that I can act as a buffer in a team and promote communication.<br>
-Recently, I am interested in Human Interface Guideline as well as Material Design.
+I am a product engineer based in Japan.
+My goals are to create new worlds through design and engineering, and to form a punk band to express myself. <br>
+My strength lies in my ability to inspire others. I foster an environment that encourages communication and drives the team forward.<br>
+I have been developing Android apps since 2020. With the introduction of KMP, I have also been developing iOS apps since 2025.<br>
+Recently, I’ve been interested in multi-device support through Adaptive Design and rich UI expressions using ASGL (Android Graphics Shading Language).<br>
+In addition, I’m currently reading through the HIG (Human Interface Guidelines) and Swift API Design Guidelines.
 
 ## Use Often
 
-[![My Skills Love](https://skillicons.dev/icons?i=androidstudio,kotlin,figma,firebase,supabase,react,nextjs,tailwind,ts,swift)](https://skillicons.dev)
+[![My Skills Love](https://skillicons.dev/icons?i=androidstudio,kotlin,figma,swift,firebase,supabase,react,tailwind,ts)](https://skillicons.dev)
 
 <!--
 ## Skills
